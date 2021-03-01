@@ -10,4 +10,16 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+
+    <string name="navigate_up">back</string>
+    <string name="animal_detail_adopt">Adopt</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="male_short">m</string>
+    <string name="female_short">f</string>
+    <string name="weight_grams">%d grams</string>
+    <string name="age_months">%d months</string>
+    <string name="age_weeks">%d weeks</string>
+    <string name="age_months_short">%d mo</string>
+    <string name="age_weeks_short">%d wk</string>
 </resources>
